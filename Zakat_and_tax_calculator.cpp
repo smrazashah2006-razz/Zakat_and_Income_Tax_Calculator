@@ -1,8 +1,3 @@
-/*
- * Zakat and Income Tax Calculator (Pakistan) - GUI version
- * Uses the Windows API (windows.h). No extra library to install.
- * Works in Dev-C++ (Windows Application project).
- */
 
 #include <windows.h>
 #include <stdio.h>
